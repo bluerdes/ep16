@@ -1,0 +1,13 @@
+Utility function type; Curvature; Loss Aversion
+  pow;     -0.7; 1.0
+pow;   0.0;         3.5   
+   pow;  0.7;         1.0  
+pow;    -0.7;   3.5
+  pow;  0.0; 1.0
+pow;  0.7;      3.5
+  exp;     -0.00008; 1.0
+    exp;   8e-5;         3.5   
+  exp;  -8e-5;         1.0  
+ exp;       0.00009;   3.5
+  exp;  -8e-5; 3.5
+exp;  8e-5;      1.0
